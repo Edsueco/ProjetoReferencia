@@ -1,0 +1,11 @@
+/Users/aluno/Projects/testesreferencia/testesreferencia/obj/Debug/netcoreapp2.1/testesreferencia.csprojAssemblyReference.cache
+/Users/aluno/Projects/testesreferencia/testesreferencia/obj/Debug/netcoreapp2.1/testesreferencia.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/testesreferencia/testesreferencia/obj/Debug/netcoreapp2.1/testesreferencia.AssemblyInfoInputs.cache
+/Users/aluno/Projects/testesreferencia/testesreferencia/obj/Debug/netcoreapp2.1/testesreferencia.AssemblyInfo.cs
+/Users/aluno/Projects/testesreferencia/testesreferencia/bin/Debug/netcoreapp2.1/testesreferencia.deps.json
+/Users/aluno/Projects/testesreferencia/testesreferencia/bin/Debug/netcoreapp2.1/testesreferencia.runtimeconfig.json
+/Users/aluno/Projects/testesreferencia/testesreferencia/bin/Debug/netcoreapp2.1/testesreferencia.runtimeconfig.dev.json
+/Users/aluno/Projects/testesreferencia/testesreferencia/bin/Debug/netcoreapp2.1/testesreferencia.dll
+/Users/aluno/Projects/testesreferencia/testesreferencia/bin/Debug/netcoreapp2.1/testesreferencia.pdb
+/Users/aluno/Projects/testesreferencia/testesreferencia/obj/Debug/netcoreapp2.1/testesreferencia.dll
+/Users/aluno/Projects/testesreferencia/testesreferencia/obj/Debug/netcoreapp2.1/testesreferencia.pdb
